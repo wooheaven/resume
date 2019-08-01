@@ -1,13 +1,16 @@
-# Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+# Independent Degree
+- degree: Hadoop Expert Course for BigData Storage/Management Based on Cloud Computing
+  uni: National Project of Ministry of Education, Science and Technology with Daejin University 
+  year: May 2013 &mdash; Jul 2013
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: I completed well this program and was connected to the internship of Korea Information Engineering Services. 
+  # summary: You can choose to have either a single or multiple awards
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+# Degree
+- degree: Bachelor of Science, Mathematics Education
+  uni: College of Education, Kangwon National University
+  year: Mar 2004 &mdash; Feb 2012
+  awards:
+    - award: Scholarship on Year 1 Semester 2, Year 3 Semeter 2
+    - award: Semi-runner-up of college basketball competition on Year 3
+  # summary: If you had any meaningful roles at college, feel free to write about them here
