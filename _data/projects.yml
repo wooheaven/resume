@@ -1,12 +1,38 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# eDL
+- project: Develop eDataLyzer (Click to eDL demo)
+  role: Software Engineer, Data Scientist
+  duration: Nov. 2013 ~ Present (~ Jul. 2016 for Implementation algorithm by parallel frameworks)
+  url: "https://www.youtube.com/watch?v=mx7lF0iGp9U&list=PLtHY8W44yigJrT1-3wv_0nIE2_a205c80&index=4"
+  description: The goal of this project is to extend the throughput of the eDataLyzer (a existing semiconductor analytics product for wafer yield map classification and root cause find) from small to big data.
+    We applied a variety of methods to this large project.
+    <ul class="resume-item-list">
+      <li>
+        First, re-develop by C# and Java from C# only.
+      </li>
+      <li>
+        Second, re-construct to microservices architecture from monolithic one.
+      </li>
+      <li>
+        Third, re-organize a project team to UI, Server, Research, Bigdata, Techinal Sales/Support.
+      </li>
+    </ul>
+    I was a member of the Bigdata team,
+    mainly focusing on parallelizing and applying new technology to extend existing algorithms to big data.
+    If necessary, I went to the customer and worked with out Technical Supporter.
+    This project had three subproject.
+    <ul class="resume-item-list">
+      <li>First, re-developed the existing product by Java, PostgreSQL, Spring.</li>
+      <li>Second, re-developed the existing product by non Hadoop-based tech (GPDB, Oracle-R).</li>
+      <li>Third, re-developed the existing product by Hadoop-based tech (Hadoop, BDA, Hawq, Spark, Hbase, Eco-system).</li>
+    </ul>
+    We have a lot of clients.
+    <ul class="resume-item-list">
+      <li>(Korea) Samsung Electronics, SKHynix, SKSiltron</li>
+      <li>(Japan) Toshiba, Sharp, (China) BOE</li>
+    </ul>
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
