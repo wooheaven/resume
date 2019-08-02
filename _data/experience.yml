@@ -1,14 +1,20 @@
 # Jobs
 # 1st
-- company: BISTel
-  position: Senior Software Engineer / Data Scientist 
-  duration: Nov, 2013 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Research new technology and paper.</li><li>Apply it to previous product or Develop a new product based on it.</li><li>Deploy a product to client and Make them solve their problem.</li></ul>
+- company: BISTel, Co.
+  position: Software Engineer, Data Scientist 
+  duration: Nov. 2013 ~ Present
+  summary: 
+    <ul class="resume-item-list">
+      <li>Research on new technology of IT and academic paper. Share this with team.</li>
+      <li>Gather requirement from external client and internal stakeholder.</li>
+      <li>Develop or upgrade a product according to the above technology, paper, requirement.</li>
+      <li>Deploy the product to client and Make them solve their problem.</li>
+    </ul>
   # Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	
 
 # 2nd
-- company: Korea Information Engineering Services
+- company: Korea Information Engineering Services, Co.
   position: Internship
-  duration:  Aug, 2013 &mdash; Oct, 2013
+  duration:  Aug. 2013 ~ Oct. 2013
   summary: <ul class="resume-item-list"><li>Check quality assurance for product features to be released.</li><li>Refine documentation for a user's point of view.</li></ul>
   # summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
