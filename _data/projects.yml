@@ -4,7 +4,7 @@
 # eDL
 - project: Develop eDataLyzer
   role: Software Engineer, Data Scientist
-  duration: Nov. 2013 ~ Present more than 30 M/M
+  duration: Nov. 2013 ~ Present, 33 months, more than 30 M/M
   url: "https://www.youtube.com/watch?v=mx7lF0iGp9U&list=PLtHY8W44yigJrT1-3wv_0nIE2_a205c80&index=4"
   description: 
     The eDataLyzer is a existing semiconductor analytics product for wafer yield map classification and root cause correlation.
@@ -46,9 +46,32 @@
     </ul>
     </ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# RL
+- project: Research Applying Reinforcement Learning on Semiconductor
+  role: Researcher, Software Engineer
+  duration: Dec. 2018 ~ Present, 9 months, 6 M/M
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: 
+    The goal of this project is to apply reinforcement learning on semiconductor and share the experience with teammates.
+    I pick up 8-Puzzle as a environment for reinforcement learning.
+    Here's why I pick up it.
+    <ul class="resume-item-list">
+      <li>
+        In order to collaborate with teammates, I need to find the generalizable environment easy to apply Graph Theory.
+        So I pick up operation management of production on semiconductor.
+      </li>
+      <li>
+        Because I need to find suitable environment not complex one, So I pick up 8-Puzzle.
+        Focus on shortest-path variable not yield, productivity, stability, automation rate, etc
+      </li>
+    </ul>
+    The most recent research situations is as follows.
+    <ul class="resume-item-list">
+      <li>
+        1st, succeeds in solving 9-Puzzle by Dynaminc Programming
+      </li>
+      <li>
+        2nd, fail to solving 9-Puzzle by QLearning/DeepSARSA/PolishGradient
+      </li>
+    </ul>
+    The rest of the research is to find out why and how to overcome it.
