@@ -47,31 +47,31 @@
     </ul>
 
 # RL
-- project: Research Applying Reinforcement Learning on Semiconductor
+- project: Research to Apply Reinforcement Learning on Semiconductor
   role: Researcher, Software Engineer
   duration: Dec. 2018 ~ Present, 9 months, 6 M/M
   # url: "#"
   description: 
-    The goal of this project is to apply reinforcement learning on semiconductor and share the experience with teammates.
+    The goal of this project is to apply reinforcement learning on semiconductor and share the experience with team.
     I pick up 8-Puzzle as a environment for reinforcement learning.
-    Here's why I pick up it.
+    Here's why I pick up it in details.
     <ul class="resume-item-list">
       <li>
-        In order to collaborate with teammates, I need to find the generalizable environment easy to apply Graph Theory.
+        In order to collaborate with teammates, I need to find the generalized environment easy to apply Graph Theory.
         So I pick up operation management of production on semiconductor.
       </li>
       <li>
-        Because I need to find suitable environment not complex one, So I pick up 8-Puzzle.
-        Focus on shortest-path variable not yield, productivity, stability, automation rate, etc
+        In order to find suitable environment not complex one, So I pick up 8-Puzzle.
+        Focus on shortest-path not yield, productivity, stability, automation rate, etc
       </li>
     </ul>
-    The most recent research situations is as follows.
+    The recent research situation is as follows.
     <ul class="resume-item-list">
       <li>
-        1st, succeeds in solving 9-Puzzle by Dynaminc Programming
+        1st, solve 8-Puzzle by Dynaminc Programming
       </li>
       <li>
-        2nd, fail to solving 9-Puzzle by QLearning/DeepSARSA/PolishGradient
+        2nd, fail to solve 8-Puzzle by QLearning, Deep SARSA, Polish Gradient
       </li>
     </ul>
     The rest of the research is to find out why and how to overcome it.
