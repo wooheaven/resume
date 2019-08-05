@@ -2,36 +2,48 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # eDL
-- project: Develop eDataLyzer (Click to eDL demo)
+- project: Develop eDataLyzer
   role: Software Engineer, Data Scientist
-  duration: Nov. 2013 ~ Present (~ Jul. 2016 for Implementation algorithm by parallel frameworks)
+  duration: Nov. 2013 ~ Present
   url: "https://www.youtube.com/watch?v=mx7lF0iGp9U&list=PLtHY8W44yigJrT1-3wv_0nIE2_a205c80&index=4"
-  description: The goal of this project is to extend the throughput of the eDataLyzer (a existing semiconductor analytics product for wafer yield map classification and root cause find) from small to big data.
-    We applied a variety of methods to this large project.
+  description: 
+    The eDataLyzer is a existing semiconductor analytics product for wafer yield map classification and root cause correlation.
+    The goal of this project is to redevelop the eDataLyzer for big data.
+    So we have led this project in three ways.  
     <ul class="resume-item-list">
       <li>
-        First, re-develop by C# and Java from C# only.
+        1st, reconstruct the architecture to micro services from monolithic one.
       </li>
       <li>
-        Second, re-construct to microservices architecture from monolithic one.
+        2nd, reorganize to a role based teams from a unified team.(Client, Server, Algorithm, Research, Technical Sales/Support.)
       </li>
       <li>
-        Third, re-organize a project team to UI, Server, Research, Bigdata, Techinal Sales/Support.
+        3rd, redevelop by Java and C\# not only C\#.
       </li>
     </ul>
-    I was a member of the Bigdata team,
-    mainly focusing on parallelizing and applying new technology to extend existing algorithms to big data.
-    If necessary, I went to the customer and worked with out Technical Supporter.
+    I belong to Algorithm team, mainly focusing on parallelizing algorithm by new big data technologies.
     This project had three subproject.
+    In briefly, I have done three ways of parallelizing algorithms.
     <ul class="resume-item-list">
-      <li>First, re-developed the existing product by Java, PostgreSQL, Spring.</li>
-      <li>Second, re-developed the existing product by non Hadoop-based tech (GPDB, Oracle-R).</li>
-      <li>Third, re-developed the existing product by Hadoop-based tech (Hadoop, BDA, Hawq, Spark, Hbase, Eco-system).</li>
+      <li>
+        1st, I had redeveloped the algorithms by Java, PostgreSQL, Spring for small data clients.
+      </li>
+      <li>
+        2nd, I had redeveloped the algorithms by non Hadoop based technologies.(GreenPlumDataBase PL/Java, Oracle-R)
+      </li>
+      <li>
+        3rd, I had redeveloped the algorithms by Hadoop based technologies.(Hadoop, BDA, Hawq, HBase, Spark, Eco system)
+      </li>
     </ul>
-    We have a lot of clients.
+    In this project, we have a lot of semiconductor clients. 
     <ul class="resume-item-list">
-      <li>(Korea) Samsung Electronics, SKHynix, SKSiltron</li>
-      <li>(Japan) Toshiba, Sharp, (China) BOE</li>
+      <li>
+        Korea - Samsung Electronics, SKHynix, SKSiltron
+      </li>
+      <li>
+        Japan, Taiwan, China - Toshiba, Sharp, TSMC, BOE
+      </li>
+    </ul>
     </ul>
 
 # Springfield Community Outreach Group
