@@ -82,17 +82,17 @@
   duration: Jul. 2017 ~ Dec. 2017, 5 months, 2 M/M
   url: "https://www.cs.ucr.edu/~eamonn/MatrixProfile.html"
   description: 
-    The goal of this project is to predict a shutdown of motor based on time series data.
+    The goal of this project is to predict a shutdown of motor based on time series sensed data.
     Client's product-lines(blue-collars) found out a shutdown once a year and hate this problem.
-    But client's office-lines(white-collars) were failed to predict.
-    Also we cann't predict it by the previous project's algorithm which is a vibration data analysis on rotationary machine.
+    But both client's office-lines(white-collars) and our previous algorithm didn't predict it.
+    Because the algorithm focus on a vibration analysis on rotationary machine.
     So we created this project as a subproject of the previous one and led this project as below.
     <ul class="resume-item-list">
       <li>
         1st, we found out the matrix profile which is a suitable algorithm for time series predict.
       </li>
       <li>
-        2nd, I implemented the algorithm in python and apply it to client. And solve the problem successfully.
+        2nd, I implemented the algorithm in python and deploy it to client. And solve the problem successfully.
       </li>
       <li>
         3rd, I implemented it in java and integrate with UI. Teached them how to solve their problem through our product.
