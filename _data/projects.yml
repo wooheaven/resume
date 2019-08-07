@@ -106,13 +106,13 @@
   # url: ""
   description: 
     The goal of this project is to provide predictive maintenance on semiconductor's etching tools.
-    In order to change this client's empirical maintenance(condition and time), we led this project as below.
+    In order to change this client's empirical maintenance by condition and time, we led this project as below.
     <ul class="resume-item-list">
       <li>
-        1st, redefine input data through Self Organizing Map. And define health score from distance of each vectors of input data and observation vector.
+        1st, redefine input data through Self Organizing Map. And define health scores from distance of each vectors of input data and observation vector.
       </li>
       <li>
-        2nd, apply Double Exponential Weighted Moving Average to the health score. And get Remaining Useful Life for each vectors of input data.
+        2nd, apply Double Exponential Weighted Moving Average to the health scores. And get Remaining Useful Life for each vectors of input data.
       </li>
     </ul>
     But we got a feedback that our product was too late for client. So we additionally led this project as follows.
@@ -122,7 +122,7 @@
       </li>
       <li>
         2nd, apply Spark and HDFS on 2nd DEWMA algorithm.
-        And find out a tunning point. 
+        And find out a tuning point. 
         For example, use dynamic number of option dfs.replication not static default 3 depends on data's variety and volume.
       </li>
     </ul>
