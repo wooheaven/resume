@@ -18,7 +18,7 @@
         2nd, reorganize to a role based teams from a unified team.(Client, Server, Algorithm, Research, Technical Sales/Support.)
       </li>
       <li>
-        3rd, redevelop by Java and C\# not only C\#.
+        3rd, redevelop by Java and C# not only C#.
       </li>
     </ul>
     I belong to Algorithm team, mainly focusing on parallelizing algorithm by new big data technologies.
@@ -106,14 +106,13 @@
   # url: ""
   description: 
     The goal of this project is to provide predictive maintenance on semiconductor's etching tools.
-    Client have empirically maintenanced on semiconductor's etching tools by condition and time.
-    In order to change this client's maintenance, we led this project as below.
+    In order to change this client's empirical maintenance(condition and time), we led this project as below.
     <ul class="resume-item-list">
       <li>
         1st, redefine input data through Self Organizing Map. And define health score from distance of each vectors of input data and observation vector.
       </li>
       <li>
-        2nd, apply Double Exponential Weighted Moving Average to health score and get Remaining Useful Life for each vectors of input data.
+        2nd, apply Double Exponential Weighted Moving Average to the health score. And get Remaining Useful Life for each vectors of input data.
       </li>
     </ul>
     But we got a feedback that our product was too late for client. So we additionally led this project as follows.
