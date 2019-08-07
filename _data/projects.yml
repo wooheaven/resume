@@ -35,7 +35,7 @@
         3rd, I had redeveloped the algorithms by Hadoop based technologies.(Hadoop, BDA, Hawq, HBase, Spark, Eco system)
       </li>
     </ul>
-    In this project, we have a lot of semiconductor clients. 
+    The clients of this project are various as follows. And the project types are PoC, Pilot and Production.
     <ul class="resume-item-list">
       <li>
         Korea - Samsung Electronics, SKHynix, SKSiltron
@@ -43,7 +43,6 @@
       <li>
         Japan, Taiwan, China - Toshiba, Sharp, TSMC, BOE
       </li>
-    </ul>
     </ul>
 
 # RL
@@ -98,4 +97,34 @@
         3rd, I implemented it in java and integrate with UI. Teached them how to solve their problem through our product.
       </li>
     </ul>
-    This project's client is Hyundai Motors.
+    The client of this project is Hyundai Motor. And the project type is PoC.
+
+# PdM
+- project: Develop Predictive Maintenance on Semiconductor
+  role: Software Engineer
+  duration: Nov. 2016 ~ Mar. 2017, 5 months, 4 M/M
+  # url: ""
+  description: 
+    The goal of this project is to provide predictive maintenance on semiconductor's etching tools.
+    Client have empirically maintenanced on semiconductor's etching tools by condition and time.
+    In order to change this client's maintenance, we led this project as below.
+    <ul class="resume-item-list">
+      <li>
+        1st, redefine input data through Self Organizing Map. And define health score from distance of each vectors of input data and observation vector.
+      </li>
+      <li>
+        2nd, apply Double Exponential Weighted Moving Average to health score and get Remaining Useful Life for each vectors of input data.
+      </li>
+    </ul>
+    But we got a feedback that our product was too late for client. So we additionally led this project as follows.
+    <ul class="resume-item-list">
+      <li>
+        1st, detect the bottle neck of our product as the DEWMA not the SOM.
+      </li>
+      <li>
+        2nd, apply Spark and HDFS on 2nd DEWMA algorithm.
+        And find out a tunning point. 
+        For example, use dynamic number of option dfs.replication not static default 3 depends on data's variety and volume.
+      </li>
+    </ul>
+    The client of this project is SKHynix. And the project type is pilot.
