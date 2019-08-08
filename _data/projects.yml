@@ -4,7 +4,7 @@
 # eDL
 - project: Develop eDataLyzer
   role: Software Engineer, Data Scientist
-  duration: Nov. 2013 ~ Present, 33 months, more than 30 M/M
+  duration: Nov. 2013 ~ Present, 5 years 10 months, more than 30 M/M
   url: "https://www.youtube.com/watch?v=mx7lF0iGp9U&list=PLtHY8W44yigJrT1-3wv_0nIE2_a205c80&index=4"
   description: 
     The eDataLyzer is a existing semiconductor analytics product for wafer yield map classification and root cause correlation.
@@ -78,7 +78,7 @@
 # MP
 - project: Develop Matrix Profile on Transfer System 
   role: Software Engineer
-  duration: Jul. 2017 ~ Dec. 2017, 5 months, 2 M/M
+  duration: Jul. 2017 ~ Dec. 2017, 6 months, 2 M/M
   url: "https://www.cs.ucr.edu/~eamonn/MatrixProfile.html"
   description: 
     The goal of this project is to predict a shutdown of motor based on time series sensed data.
