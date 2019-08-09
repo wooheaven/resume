@@ -1,12 +1,44 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# languages 
+- skill: Programming Languages = Java, SQL, Python
+  description: In production level, I have used Java, SQL for 6 years. 
+               In paper/conception level, I have used Python for 2 years.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Bigdata
+- skill: Bigdata = GPDB, Hadoop, Spark
+  description: Initially my team tried to use only Java's Multi-Threading and Networking programming for big data.
+               But it didn't last long for my team to realized that we was developing a platform not a application.
+               And we find out bigdata platform which enable us to focus on bisiness logic of our application.
+               1st, GPDB is the platform we are looking for. And we can execute our application as bigdata on production level by using it.
+               2nd, Hadoop is the platform we are looking for. Using Hadoop, we didn't go beyond PoC until Spark came out. 
+
+# Database
+- skill: Database = Oracle, PostgreSQL, HBase
+  description: Because my semiconductor's client use oracle as their 1st repository, I have to learn it first.
+               We apply the PostgreSQL for reduce the price. While the PostgreSQL was good in most cases, the HBase was used for solve the performance issue.
+
+# Frameworks
+- skill: Frameworks = Spring Frameworks
+  description: We use Spring Frameworks on re-construct the previous monolithic application into microservices architect 
+               and re-develop the previous product by java based frameworks instead of .NET framework.
+
+# DL/RL
+- skill: Deep Learning, Reinforcement Learning = Nvidia CUDA, Keras, Tensorflow
+  description: I used above skills for research project.
+
+# DevOps
+- skill : DevOps = Linux, Docker, On premise Cloud(KVM), Public Cloud(Azure, AWS)
+  description: These skills are not my main job. But use these for utility on projects.
+
+# Research
+- skill: Research
+  description: Read and implement the latest paper by python
+
+# Leadership
+- skill: Leadership
+  description: I have experience of successfully leading both projects for a year.
+
+ # Communications 
+- skill: Communications
+  description: I have smoothly communicated with the aggressive client, the various teammates and the learned government officials.
