@@ -123,7 +123,6 @@
       <li>
         2nd, apply Spark and HDFS on 2nd DEWMA algorithm.
         And find out a tuning point. 
-        For example, use dynamic number of option dfs.replication not static default 3 depends on data's variety and volume.
       </li>
     </ul>
     The client of this project is SKHynix. And the project type is pilot.

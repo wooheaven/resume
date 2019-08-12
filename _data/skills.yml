@@ -1,44 +1,54 @@
 # Skills
 
-# languages 
-- skill: Programming Languages = Java, SQL, Python
-  description: In production level, I have used Java, SQL for 6 years. 
-               In paper/conception level, I have used Python for 2 years.
+# Programming
+- skill: Programming - Java, SQL, Python
+  description: I have used Java, SQL for 6 years on production. 
+               I have used Python for 2 years on papers research.
 
-# Bigdata
-- skill: Bigdata = GPDB, Hadoop, Spark
-  description: Initially my team tried to use only Java's Multi-Threading and Networking programming for big data.
-               But it didn't last long for my team to realized that we was developing a platform not a application.
-               And we find out bigdata platform which enable us to focus on bisiness logic of our application.
-               1st, GPDB is the platform we are looking for. And we can execute our application as bigdata on production level by using it.
-               2nd, Hadoop is the platform we are looking for. Using Hadoop, we didn't go beyond PoC until Spark came out. 
+# Backend
+- skill: Backend - Spring Frameworks
+  description: I have used this for a year on production.
+               Using this, we can re-construct the previous monolithic application into micro services architect.
+               Using this, we can re-build the previous configure hell party into AOP based application.
 
 # Database
-- skill: Database = Oracle, PostgreSQL, HBase
-  description: Because my semiconductor's client use oracle as their 1st repository, I have to learn it first.
-               We apply the PostgreSQL for reduce the price. While the PostgreSQL was good in most cases, the HBase was used for solve the performance issue.
+- skill: Database - Oracle, PostgreSQL, HBase
+  description: I have used Oracle for a year on production.
+               Because it's used by most semiconductor clients.
+               I have use PostgreSQL for 6 years on production.
+               Because it's a alternative of Oracle. It's easy to use and especially good for performance over price.
+               I have used HBase for a year on production.
+               Because it's a alternative of Oracle. It's hard to use but better than PostgreSQL especially on performance.
 
-# Frameworks
-- skill: Frameworks = Spring Frameworks
-  description: We use Spring Frameworks on re-construct the previous monolithic application into microservices architect 
-               and re-develop the previous product by java based frameworks instead of .NET framework.
+# Bigdata
+- skill: Bigdata - GPDB, Hadoop, Spark
+  description: We realized that it takes a long time to extend my previous product to big data with Java alone. 
+               In order to reduce the time, we find out the following Bigdata platform which enable us to focus on business logic of the product.
+               1st, GPDB PL/Java is a static platform which enable us to handle data by SQL, compute data by Java.
+               2nd, Hadoop Spark is a dynamic platform which enable us to handle and compute data by Java. Using Hadoop with other platform not Spark, we couldn't overcome PoC.
+               I have used GPDB for 6 years.
+               I have used Hadoop, Spark for 4 years.
 
-# DL/RL
-- skill: Deep Learning, Reinforcement Learning = Nvidia CUDA, Keras, Tensorflow
-  description: I used above skills for research project.
+# ML/AI
+- skill: ML, AI - Nvidia CUDA, Keras, Tensorflow
+  description: I have used above skills for Time series data mining and Reinforcement Learning project for a year on papers research.
 
 # DevOps
-- skill : DevOps = Linux, Docker, On premise Cloud(KVM), Public Cloud(Azure, AWS)
-  description: These skills are not my main job. But use these for utility on projects.
+- skill : DevOps - Linux, Docker, On premise Cloud(KVM), Public Cloud(Azure, AWS)
+  description: Use these for utility tool on projects.
 
 # Research
 - skill: Research
-  description: Read and implement the latest paper by python
+  description: Read and implement the latest papers by python.
 
 # Leadership
 - skill: Leadership
-  description: I have experience of successfully leading both projects for a year.
+  description: Lead successfully both projects for a year.
 
- # Communications 
+# Communications 
 - skill: Communications
-  description: I have smoothly communicated with the aggressive client, the various teammates and the learned government officials.
+  description: Communicate smoothly with various stackholders (aggressive client, academic advisor for govermenti, etc).
+
+# Language
+- skill: Language
+  description: Native in Korean, Limited working proficiency in English.
